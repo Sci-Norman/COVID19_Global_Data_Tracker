@@ -1,5 +1,5 @@
 # COVID-19 Global Data Tracker Project
-![tracker](covid-1.png)
+![image](covid-1.png)
 
 ## Overview
 The **COVID-19 Global Data Tracker** is a Python-based GUI application designed to fetch and display real-time global COVID-19 statistics using the [disease.sh API](https://disease.sh/). The application is built using **Tkinter** for the graphical interface and is implemented in a **Jupyter Notebook** as part of a student assignment. It retrieves and displays metrics such as total cases, total deaths, today's cases, today's deaths, and today's recoveries, with a timestamp for the last update.
